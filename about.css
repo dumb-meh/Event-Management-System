@@ -1,0 +1,48 @@
+body {
+  margin-top: 180px !important;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+  background-color: #f9f9f9;
+  padding-top: 80px;
+  margin: 50px auto 0;
+}
+
+div {
+  margin-top: 80px !important;
+  height: 100px!important;
+  width: auto;
+  font-size: 40px;
+  background-color: #0077b6;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  color: #0077b6;
+  text-align: center;
+}
+
+p {
+  margin: 0;
+}

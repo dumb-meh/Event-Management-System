@@ -1,0 +1,7 @@
+#Normal User
+username:a
+pass:123
+
+#Admin
+username:c
+pass:12
